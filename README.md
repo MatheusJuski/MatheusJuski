@@ -1,9 +1,8 @@
 Olá, Bem vindo ao meu GitHub!👋 <br/>
-Ainda sou iniciante neste mundo de programação🙂
 
-Alguns links
+
+
 <p style="display: inline_block;">
-<a href="https://open.spotify.com/user/314ip7swceg3cots3edjn2c5s4uq?si=40a433706a5e4ab2"> <img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 <a href="https://www.linkedin.com/in/matheus-juski-662b7a2ba/"> <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />          
 </p>
 
