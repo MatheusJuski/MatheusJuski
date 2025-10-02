@@ -8,7 +8,7 @@ Olá, Bem vindo ao meu GitHub!👋 <br/>
 
 ![Matheus Juski's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJuski&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJuski&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJuski&layout=compact&hide=tex)
 
 Softwares que utilizo: <br/>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
