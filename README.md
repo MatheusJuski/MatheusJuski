@@ -55,4 +55,3 @@
 ---
 
 📍 Confira meu perfil no [LinkedIn](https://www.linkedin.com/in/matheus-juski-662b7a2ba)  
-⭐ *Em constante evolução — sempre aprendendo, criando e otimizando.*
