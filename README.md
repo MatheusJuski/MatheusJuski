@@ -1,4 +1,4 @@
-# 👋 Olá! Me chamo Matheus Juski
+# 👋 Olá!
 
 💻 **Desenvolvedor Backend (Python | C#)**  
 
