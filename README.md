@@ -7,7 +7,8 @@
 ## ⚙️ GitHub Stats
 
 ![Matheus Juski's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJuski&show_icons=true&theme=midnight-purple&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJuski&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJuski&layout=compact&theme=midnight-purple&hide=tex)
+
 
 ---
 
