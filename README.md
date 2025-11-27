@@ -42,13 +42,3 @@
   <img src="https://img.shields.io/badge/API%20RESTful-228B22?style=for-the-badge"/>
 </p>
 ---
-
-## 🚀 Projetos em Destaque
-
-- 🔐 **API de Usuários (C# + JWT)** — CRUD completo com autenticação segura via tokens e refresh.  
-- 🎓 **Sistema de Gestão de Alunos (Flask + MySQL)** — Controle de estudantes, relatórios em PDF e login de usuários.  
-- 🪪 **Gerador de Certificados (C# + QuestPDF)** — Emissão automatizada com personalização de layout.  
-
----
-
-📍 Confira meu perfil no [LinkedIn](https://www.linkedin.com/in/matheus-juski-662b7a2ba)  
