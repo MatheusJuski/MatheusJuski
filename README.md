@@ -1,8 +1,3 @@
-# 👋 Olá!
-
-💻 **Desenvolvedor Backend (Python | C#)**  
-
----
 
 ## ⚙️ GitHub Stats
 
