@@ -45,3 +45,7 @@ Focus: Building creative & efficient solutions
 🧩 Ferramentas e Conceitos
 <div align="left"> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/> <img src="https://img.shields.io/badge/POO-1E90FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE"></div>
 
+-----------------
+<div align="center"> <img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/MatheusJuski/MatheusJuski/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </div>
+
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMatheusJuski%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D007ACC%26text_color%3Dwhite%26icon_color%3D007ACC" height="150" alt="languages graph" /> </div>
