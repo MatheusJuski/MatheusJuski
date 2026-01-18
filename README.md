@@ -1,36 +1,42 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007ACC"/>
 
+<div align="center">
+  
+ <b>`Matheus Juski`</b>  
+<samp>
+    <br>
+    Hey! Welcome to my universe <br>
+    I'm <b>Matheus Juski</b> — developer, designer & dreamer.
+</samp>
+</div>
 
-## 🧠 Principais Tecnologias
-
-### 💬 Linguagens
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-### ⚙️ Frameworks e Bibliotecas
-<p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-### 🗃️ Banco de Dados
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
-### 🧩 Ferramentas e Conceitos
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/POO-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API%20RESTful-228B22?style=for-the-badge"/>
-</p>
 ---
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=007ACC&width=900&size=22&center=true&lines=Brazilian+Developer+%F0%9F%87%A7%F0%9F%87%B7;Systems+Analysis+%26+Development+Student;Designer+%7C+Creative+Thinker;Building+cool+stuff+since+Day+1" alt="Typing SVG"/>
+</div>
+
+---
+
+### 👾 About Me
+```yaml
+Name: Matheus Juski
+From: Brazil 🇧🇷
+Interests: [Design, Technology, Automation]
+Currently: Studying Systems Analysis & Development
+Focus: Building creative & efficient solutions
+
+🧠 Principais Tecnologias
+💬 Linguagens
+<div align="left"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> </div>
+
+⚙️ Frameworks e Bibliotecas
+<div align="left"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> </div>
+
+🗃️ Banco de Dados
+<div align="left"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> </div>
+
+🧩 Ferramentas e Conceitos
+<div align="left"> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/> <img src="https://img.shields.io/badge/POO-1E90FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/API%20RESTful-228B22?style=for-the-badge"/> </div>
+
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSEU_USUARIO_AQUI%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D007ACC%26text_color%3Dwhite%26icon_color%3D007ACC" height="150" alt="stats graph" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU_USUARIO_AQUI%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D007ACC%26text_color%3Dwhite%26icon_color%3D007ACC" height="150" alt="languages graph" /> </div>
