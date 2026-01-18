@@ -25,6 +25,7 @@ From: Brazil 🇧🇷
 Interests: [Design, Technology, Automation]
 Currently: Studying Systems Analysis & Development
 Focus: Building creative & efficient solutions
+```
 
 🧠 Principais Tecnologias
 💬 Linguagens
