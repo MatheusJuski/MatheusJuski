@@ -22,8 +22,8 @@
 ```yaml
 Name: Matheus Juski
 From: Brazil 🇧🇷
-Interests: [Design, Technology, Automation]
-Currently: Studying Systems Analysis & Development
+Interests: [Technology and Automation]
+Currently: Studying Software Engineering
 Focus: Building creative & efficient solutions
 ```
 
