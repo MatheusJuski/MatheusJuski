@@ -21,6 +21,9 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=#007ACC&palette=github-dark
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#007ACC&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
+          env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
