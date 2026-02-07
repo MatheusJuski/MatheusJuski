@@ -45,7 +45,8 @@ Focus: Building creative & efficient solutions
 🧩 Ferramentas e Conceitos
 <div align="left"> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/> <img src="https://img.shields.io/badge/POO-1E90FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE"></div>
 
-Grande parte dos projetos que desenvolvo atualmente são privados ou pertencem à empresa onde trabalho, então aqui você encontra projetos autorais criados para demonstrar minhas habilidades técnicas.
+<div>Grande parte dos projetos que desenvolvo atualmente são privados ou pertencem à empresa onde trabalho, então aqui você encontra projetos autorais criados para demonstrar minhas habilidades técnicas.</div>
+
 
 -----------------
 <div align="center">
