@@ -6,7 +6,7 @@
 <samp>
     <br>
     Hey! Welcome to my universe <br>
-    I'm <b>Matheus Juski</b> — developer.
+    I'm Matheus Juski — a Software Engineering student and full-stack developer.
 </samp>
 </div>
 
