@@ -33,8 +33,6 @@ Most of the projects I currently work on are private or belong to the company wh
 Here you will find personal projects created to showcase my technical skills, creativity, and problem-solving approach.
 
 -----------------
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusJuski/MatheusJuski/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+
 
 
